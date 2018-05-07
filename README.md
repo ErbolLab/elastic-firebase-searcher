@@ -1,2 +1,1 @@
-# elastic-firebase-indexer
-# elastic-firebase-searcher
+# Perform search on firebase using elasticsearch
